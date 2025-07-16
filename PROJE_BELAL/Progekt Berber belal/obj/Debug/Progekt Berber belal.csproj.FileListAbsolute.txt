@@ -1,0 +1,27 @@
+C:\Users\belal\Desktop\Progit Berber belal\Progekt Berber belal\bin\Debug\Progekt Berber belal.exe.config
+C:\Users\belal\Desktop\Progit Berber belal\Progekt Berber belal\bin\Debug\Progekt Berber belal.exe
+C:\Users\belal\Desktop\Progit Berber belal\Progekt Berber belal\bin\Debug\Progekt Berber belal.pdb
+C:\Users\belal\Desktop\Progit Berber belal\Progekt Berber belal\obj\Debug\Progekt Berber belal.csproj.AssemblyReference.cache
+C:\Users\belal\Desktop\Progit Berber belal\Progekt Berber belal\obj\Debug\Progekt_Berber_belal.Login.resources
+C:\Users\belal\Desktop\Progit Berber belal\Progekt Berber belal\obj\Debug\Progekt_Berber_belal.Properties.Resources.resources
+C:\Users\belal\Desktop\Progit Berber belal\Progekt Berber belal\obj\Debug\Progekt Berber belal.csproj.GenerateResource.cache
+C:\Users\belal\Desktop\Progit Berber belal\Progekt Berber belal\obj\Debug\Progekt Berber belal.csproj.CoreCompileInputs.cache
+C:\Users\belal\Desktop\Progit Berber belal\Progekt Berber belal\obj\Debug\Progekt Berber belal.exe
+C:\Users\belal\Desktop\Progit Berber belal\Progekt Berber belal\obj\Debug\Progekt Berber belal.pdb
+C:\Users\belal\Desktop\Progit Berber belal\Progekt Berber belal\obj\Debug\Progekt_Berber_belal.Home.resources
+C:\Users\belal\Desktop\Progit Berber belal\Progekt Berber belal\obj\Debug\Progekt_Berber_belal.Doctor.resources
+C:\Users\belal\Desktop\Progit Berber belal\Progekt Berber belal\obj\Debug\Progekt_Berber_belal.Patient.resources
+C:\Users\belal\Desktop\Progit Berber belal\Progekt Berber belal\obj\Debug\Progekt_Berber_belal.Diagnosis.resources
+C:\Users\belal\Desktop\PROJE_BELAL\Progekt Berber belal\bin\Debug\Progekt Berber belal.exe.config
+C:\Users\belal\Desktop\PROJE_BELAL\Progekt Berber belal\bin\Debug\Progekt Berber belal.exe
+C:\Users\belal\Desktop\PROJE_BELAL\Progekt Berber belal\bin\Debug\Progekt Berber belal.pdb
+C:\Users\belal\Desktop\PROJE_BELAL\Progekt Berber belal\obj\Debug\Progekt Berber belal.csproj.AssemblyReference.cache
+C:\Users\belal\Desktop\PROJE_BELAL\Progekt Berber belal\obj\Debug\Progekt_Berber_belal.Doctor.resources
+C:\Users\belal\Desktop\PROJE_BELAL\Progekt Berber belal\obj\Debug\Progekt_Berber_belal.Home.resources
+C:\Users\belal\Desktop\PROJE_BELAL\Progekt Berber belal\obj\Debug\Progekt_Berber_belal.Login.resources
+C:\Users\belal\Desktop\PROJE_BELAL\Progekt Berber belal\obj\Debug\Progekt_Berber_belal.Patient.resources
+C:\Users\belal\Desktop\PROJE_BELAL\Progekt Berber belal\obj\Debug\Progekt_Berber_belal.Properties.Resources.resources
+C:\Users\belal\Desktop\PROJE_BELAL\Progekt Berber belal\obj\Debug\Progekt Berber belal.csproj.GenerateResource.cache
+C:\Users\belal\Desktop\PROJE_BELAL\Progekt Berber belal\obj\Debug\Progekt Berber belal.csproj.CoreCompileInputs.cache
+C:\Users\belal\Desktop\PROJE_BELAL\Progekt Berber belal\obj\Debug\Progekt Berber belal.exe
+C:\Users\belal\Desktop\PROJE_BELAL\Progekt Berber belal\obj\Debug\Progekt Berber belal.pdb
